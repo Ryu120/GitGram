@@ -2,4 +2,4 @@ build:
   docker:
     worker: Dockerfile
 run:
-  worker: python3 -m gitgram.py
+  worker: python3 -m GitGram.py
